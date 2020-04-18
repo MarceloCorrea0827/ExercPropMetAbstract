@@ -11,15 +11,15 @@ namespace ExercPropMetAbstracts.Entities
             HealthExpenditures = healthExpenditures;
         }
 
-        public override double TaxPaid(double anualIncome)
+        public override double TaxPaid()
         {
-            if (anualIncome < 20000.0)
+            if (AnualIncome < 20000.0)
             {
-                return (anualIncome * 0.15);
+                return (AnualIncome * 0.15);
             }
             else
             {
-                return ((anualIncome * 0.25) - (HealthExpenditures * 0.50));
+                return ((AnualIncome * 0.25) - (HealthExpenditures * 0.50));
             }
         }
     }

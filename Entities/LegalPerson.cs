@@ -11,15 +11,15 @@ namespace ExercPropMetAbstracts.Entities
             NumberOfEmployees = numberOfEmployees;
         }
 
-        public override double TaxPaid(double anualIncome)
+        public override double TaxPaid()
         {
             if (NumberOfEmployees <= 10)
             {
-                return (anualIncome * 0.16);
+                return (AnualIncome * 0.16);
             }
             else
             {
-                return (anualIncome * 0.14);
+                return (AnualIncome * 0.14);
             }
         }
     }
