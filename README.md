@@ -3,5 +3,4 @@ Resolução Exercício Proposto pelo Prof. Dr. Nélio Alves, sobre Métodos abst
 Usando MS Visual Studio 2019 Community e Violet para a crição do Diagrama de Classes.
 Obs: o Violet não deu suporte para a mesma notação UML passada pelo Prof. Dr. Nélio Alves, mas atende muito bem, para uma ferramenta free.
 
-<img src="MS VS 2019 Community.jpg">
-<img src="UML Violet.jpg">
+<img src="https://github.com/MarceloCorrea0827/ExercPropMetAbstract/blob/master/Images/MS%20VS%202019%20Community.jpg">
