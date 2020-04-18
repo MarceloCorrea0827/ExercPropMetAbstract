@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ExercPropMetAbstracts
+﻿namespace ExercPropMetAbstracts
 {
     class Program
     {

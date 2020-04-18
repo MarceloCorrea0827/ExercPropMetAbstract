@@ -17,7 +17,7 @@
     </void>
     <void property="name">
      <void property="text">
-      <string>People</string>
+      <string>Person</string>
      </void>
     </void>
    </object>
