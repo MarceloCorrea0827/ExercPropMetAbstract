@@ -7,4 +7,4 @@ MS Visual Studio 2019 Community - Development screen photo
 <img src="https://github.com/MarceloCorrea0827/ExercPropMetAbstract/blob/master/Images/MS%20VS%202019%20Community.jpg">
 
 Violet - Development screen photo
-<img = src="https://github.com/MarceloCorrea0827/ExercPropMetAbstract/blob/master/Images/UML%20Violet.jpg">
+<img src="https://github.com/MarceloCorrea0827/ExercPropMetAbstract/blob/master/Images/UML%20Violet.jpg">
