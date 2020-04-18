@@ -12,7 +12,7 @@
     </void>
     <void property="methods">
      <void property="text">
-      <string>+ totalTaxes(): Double</string>
+      <string>+ taxPaid(Double: anualIncome): Double</string>
      </void>
     </void>
     <void property="name">
@@ -49,11 +49,6 @@
       <string>- healthExpenditures: Double</string>
      </void>
     </void>
-    <void property="methods">
-     <void property="text">
-      <string>+ taxPaid(): Double</string>
-     </void>
-    </void>
     <void property="name">
      <void property="text">
       <string>NaturalPerson</string>
@@ -86,11 +81,6 @@
     <void property="attributes">
      <void property="text">
       <string>- numberOfEmployees: Int</string>
-     </void>
-    </void>
-    <void property="methods">
-     <void property="text">
-      <string>+ taxPaid(): Double</string>
      </void>
     </void>
     <void property="name">
